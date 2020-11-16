@@ -43,7 +43,7 @@ For build class diagram , Use case diagram
 
 Every members of our crew had the opportunity to contribute as much as they want to there tasks, as long as they are assigned. 
 
-##AUTHORS
+## AUTHORS
 
 * Ange Kevin YEO - Team leader - Java/UML developer - (https://github.com/AngeKevinYEO) 
 
