@@ -19,6 +19,10 @@ Beautiful Soup is a Python library for pulling data out of HTML and XML files. 
 Requests is an Apache2 Licensed HTTP library, written in Python, for human beings.
 
 Python’s standard urllib2 module provides most of the HTTP capabilities you need, but the API is thoroughly broken. It was built for a different time — and a different web. It requires an enormous amount of work (even method overrides) to perform the simplest of tasks.
+    
+    • CSV
+
+he so-called CSV (Comma Separated Values) format is the most common import and export format for spreadsheets and databases. There is no « CSV standard », so the format is operationally defined by the many applications which read and write it. The lack of a standard means that subtle differences often exist in the data produced and consumed by different applications. These differences can make it annoying to process CSV files from multiple sources. Still, while the delimiters and quoting characters vary, the overall format is similar enough that it is possible to write a single module which can efficiently manipulate such data, hiding the details of reading and writing the data from the programmer.
 
     • Codecs 
     • GitHub - For sharing all the modifications to the project.
